@@ -18,7 +18,7 @@ public class aplication {
 		
 		for (int i=0; i<n; i++){
 			vect[i] = sc.nextDouble();
-			
+			System.out.println("Voce digitou " + vect);
 		}
 		double sum = 0.0;
 		for (int i=0; i<n; i++) {
